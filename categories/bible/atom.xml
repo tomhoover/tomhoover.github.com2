@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Tom Hoover]]></title>
-  <link href="http://tomhoover.net/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Bible | Tom Hoover]]></title>
+  <link href="http://tomhoover.net/categories/bible/atom.xml" rel="self"/>
   <link href="http://tomhoover.net/"/>
   <updated>2012-08-06T11:52:51-05:00</updated>
   <id>http://tomhoover.net/</id>
@@ -12,19 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[My Prayer]]></title>
-    <link href="http://tomhoover.net/my-prayer/"/>
-    <updated>2006-01-29T00:00:00-06:00</updated>
-    <id>http://tomhoover.net/my-prayer</id>
-    <content type="html"><![CDATA[<p>Lord, I shall not fret about yesterday, for yesterday is no more.  I shall not
-fear tomorrow, for tomorrow is yet to come.  So, Lord, at least in some small
-way I shall try to deserve today.  Amen.</p>
-
-<p><em>-Author Unknown</em></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Romans 1:16]]></title>
